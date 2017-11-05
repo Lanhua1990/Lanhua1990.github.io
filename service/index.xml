@@ -6,16 +6,46 @@
     <description>Recent content in Services on 兰华的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Sun, 05 Nov 2017 11:04:32 +0800</lastBuildDate>
     
 	<atom:link href="https://lanhua1990.github.io/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>markdown教程</title>
+      <link>https://lanhua1990.github.io/service/lanhua/md/</link>
+      <pubDate>Sun, 05 Nov 2017 11:04:32 +0800</pubDate>
+      
+      <guid>https://lanhua1990.github.io/service/lanhua/md/</guid>
+      <description>&lt;h4 id=&#34;mk&#34;&gt;mk&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;  markdown是一种轻量级标记语言，能将文本换成有效的XHTML（或者HTML，超文本标记语言）文档，它的目标是实现易读易懂，
+  成为一种适用于网络的书写语言。
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>        </title>
+      <link>https://lanhua1990.github.io/service/liezi/</link>
+      <pubDate>Sat, 04 Nov 2017 22:12:39 +0800</pubDate>
+      
+      <guid>https://lanhua1990.github.io/service/liezi/</guid>
+      <description>&lt;p&gt;（始记）&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    天瑞，意谓天地之灵瑞，自然之符应，即文中提到的“不生不化者”。列子认为，世间万物皆有始有终，唯有“不生不化者”，亦即“道”，才能够循环往复、独立永存。“不生不化者”是世界产生与变化的本源，它最初无形无象，历经太易、太初、太始、太素四个阶段，形成“浑沦”，再自“视之不见，听之不闻，循之不得”的“易”演变为有形的“一”，最终生成天地万物。列子道逢百岁骷髅，顺此言明“万物皆出于机，皆入于机”。一切缘自“道”，然而却并非“道”有意为之，天地万物只是自然而然地变化运转，生息盈亏。
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>修身养性</title>
-      <link>https://lanhua1990.github.io/service/service4/</link>
+      <link>https://lanhua1990.github.io/service/ssyx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lanhua1990.github.io/service/service4/</guid>
+      <guid>https://lanhua1990.github.io/service/ssyx/</guid>
       <description>&lt;p&gt;（一）&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;    自处超然  
@@ -33,10 +63,10 @@
     
     <item>
       <title>增广贤文</title>
-      <link>https://lanhua1990.github.io/service/service2/</link>
+      <link>https://lanhua1990.github.io/service/zgxw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lanhua1990.github.io/service/service2/</guid>
+      <guid>https://lanhua1990.github.io/service/zgxw/</guid>
       <description>&lt;p&gt;道家思想&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;观今宜鉴古，无古不成今。  
@@ -68,10 +98,10 @@
     
     <item>
       <title>水调歌头</title>
-      <link>https://lanhua1990.github.io/service/service3/</link>
+      <link>https://lanhua1990.github.io/service/sdgt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lanhua1990.github.io/service/service3/</guid>
+      <guid>https://lanhua1990.github.io/service/sdgt/</guid>
       <description>&lt;p&gt;宋  苏东坡&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;    明月几时有  
@@ -100,10 +130,10 @@
     
     <item>
       <title>逍遥游</title>
-      <link>https://lanhua1990.github.io/service/service1/</link>
+      <link>https://lanhua1990.github.io/service/xyy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lanhua1990.github.io/service/service1/</guid>
+      <guid>https://lanhua1990.github.io/service/xyy/</guid>
       <description>&lt;p&gt;庄子&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;    北冥有鱼        
